@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: VANI
-image: /img/manda_1.jpg
+image: /img/php_placeholder.svg
 heading: Great coffee with a conscience
 subheading: BLA BLA
 mainpitch:
